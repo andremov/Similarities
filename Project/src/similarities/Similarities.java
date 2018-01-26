@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package similarities1;
+package similarities;
 
 /**
  *
  * @author Andrés Movilla
  */
-public class Similarities1 {
+public class Similarities {
 
     /**
      * @param args the command line arguments
